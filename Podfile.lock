@@ -1,0 +1,17 @@
+PODS:
+  - Eureka (1.7.0)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+
+DEPENDENCIES:
+  - Eureka
+  - MagicalRecord
+
+SPEC CHECKSUMS:
+  Eureka: 2020d9faeef7b7e9adeb9e3d8af779e5931c1897
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+
+PODFILE CHECKSUM: f5bb04b6189502bac315ef62ca3c4135b0fb8567
+
+COCOAPODS: 1.0.1
