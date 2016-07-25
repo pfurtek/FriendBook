@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Eureka.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>MagicalRecord.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-CoreDataLearning.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-CoreDataLearningTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-CoreDataLearningUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2EC93F30CE4AE969F6C66DE0EF9CACE0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4332352E97A37C729DC7D9B3B8A4BB15</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B1FE8E305B50A5F9A4ABCAE2969D84A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AA63FCD8F0D09F203ADBF1481C90535F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D58D76EC529B4A92F3E5EDADE0A96661</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

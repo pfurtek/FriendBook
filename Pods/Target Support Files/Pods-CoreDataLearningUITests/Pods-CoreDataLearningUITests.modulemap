@@ -1,0 +1,6 @@
+framework module Pods_CoreDataLearningUITests {
+  umbrella header "Pods-CoreDataLearningUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
